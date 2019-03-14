@@ -1,0 +1,1 @@
+{'maxtemperature': 60.7, 'temperature': 55.0, 'mintemperature': 41.9, 'humidity': 93, 'windspeed': 18.342908, 'winddirection': 150}
